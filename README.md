@@ -1,4 +1,4 @@
-<img width="640" height="547" alt="image" src="https://github.com/user-attachments/assets/a4e7d21a-7301-47f5-a80c-1e0a0e52d562" />## 📊 Sentiment Analysis of Indonesia VAT 12% Policy on Instagram
+## 📊 Sentiment Analysis of Indonesia VAT 12% Policy on Instagram
 
 ## 📌 Description
 This project analyzes public sentiment toward Indonesia’s planned Value-Added Tax (VAT) increase to 12% by 2025. The study focuses on Instagram comments from Narasi Newsroom posts, using text mining and machine learning approaches to understand public opinion and engagement patterns.
